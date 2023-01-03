@@ -13,31 +13,29 @@
 
 [![](https://skillicons.dev/icons?i=java,spring,hibernate,kotlin,aws,postgres)]()
 
-<br/>
 
 ### Used Tools:
 
 [![](https://skillicons.dev/icons?i=git,idea,eclipse,docker,vscode,jenkins,openshift,matlab,prometheus,r)]()
 
 
-<br />
-
-### A special thanks goes to   [![](https://skillicons.dev/icons?i=stackoverflow)]()
+### A special thanks goes to ->   [![](https://skillicons.dev/icons?i=stackoverflow)]()
 
 
 <br />
 
+<h2 align="center">📊 My Github Stats<h2>
+<div>
 
-<!-- ### My GitHub Stats: -->
-
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=SobornovDev&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
-</p>
-
-<p>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SobornovDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SobornovDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
+ 
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=SobornovDev&theme=tokyonight&border_radius=10" alt="Sobornov" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SobornovDev&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobornovDev&theme=tokyonight" alt="Sobornov" height="260px" width="25%" />
+<div>
 You could discover more about me on page below (projects, contacts, etc).
 
 👉 [https://www.linkedin.com/in/vladimir-sobornov/](https://www.linkedin.com/in/vladimir-sobornov/)
