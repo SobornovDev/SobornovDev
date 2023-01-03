@@ -9,33 +9,35 @@
 
 <br/>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SobornovDev.visitor-badge.issue.1&title=Github%20Visitors)
-
-<br/>
-
 ### Skills:
 
-[![](https://skillicons.dev/icons?i=java,spring,hibernate,kotlin,aws,camunda,postgresql,kafka,junit)]()
+[![](https://skillicons.dev/icons?i=java,spring,hibernate,kotlin,aws,postgres)]()
 
 <br/>
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,idea,eclipse,docker,vscode,jenkins,openshift,matlab,prometheus,r,)]()
+[![](https://skillicons.dev/icons?i=git,idea,eclipse,docker,vscode,jenkins,openshift,matlab,prometheus,r)]()
 
 
 <br />
 
-### A special thanks goes to [![](https://skillicons.dev/icons?i=stackoverflow)]()
+### A special thanks goes to   [![](https://skillicons.dev/icons?i=stackoverflow)]()
 
 
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SobornovDev&show_icons=true&theme=radical)
+<!-- ### My GitHub Stats: -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobornovDev&layout=compact&theme=radical)
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=SobornovDev&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+</p>
 
+<p>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SobornovDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SobornovDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
 You could discover more about me on page below (projects, contacts, etc).
 
 👉 [https://www.linkedin.com/in/vladimir-sobornov/](https://www.linkedin.com/in/vladimir-sobornov/)
