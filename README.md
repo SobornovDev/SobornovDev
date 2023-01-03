@@ -7,6 +7,31 @@
 <a href="https://leetcode.com/SobornovDev/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </div>
 
+<br/>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SobornovDev.visitor-badge.issue.1&title=Github%20Visitors)
+
+<br/>
+
+### Skills:
+
+[![](https://skillicons.dev/icons?i=java,spring,hibernate,kotlin,aws,camunda,postgresql,kafka,junit)]()
+
+<br/>
+
+### Used Tools:
+
+[![](https://skillicons.dev/icons?i=git,idea,eclipse,docker,vscode,jenkins,openshift,matlab,prometheus,r,)]()
+
+
+<br />
+
+### A special thanks goes to [![](https://skillicons.dev/icons?i=stackoverflow)]()
+
+
+<br />
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SobornovDev&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobornovDev&layout=compact&theme=radical)
