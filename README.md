@@ -10,10 +10,10 @@
 <br/>
 
  
-<div>
+<!-- <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SobornovDev&show_icons=true&theme=tokyonight&border_radus=10" height="300px" width="47%"/>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobornovDev&show_icons=true&theme=tokyonight&border_radus=10" height="300px" width="47%"/>
-</div> 
+</div>  -->
  
 ### Skills:
 
