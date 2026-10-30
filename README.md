@@ -9,7 +9,7 @@ Senior Backend Engineer · Berlin · Java / Kotlin / Spring Boot / Kafka
 
 Backend engineer with 7+ years in regulated fintech. I build event-driven microservices and own them in production: architecture, tests, observability, on-call.
 
-**Based in Berlin.** German work authorization (Opportunity Card). No visa sponsorship required.
+Based in Berlin · Open to relocation · Available immediately
 
 ### Stack
 `Java 17/21` · `Kotlin` · `Spring Boot` · `Apache Kafka` · `PostgreSQL` · `Kubernetes` · `Keycloak` · `Camunda` · `gRPC`
